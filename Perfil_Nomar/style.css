@@ -17,7 +17,7 @@ body {
 
 /* ----------- Barra de Navegación ----------- */
 header {
-    background: #007BFF;
+    background: #00b809;
     padding: 15px 0;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
@@ -52,7 +52,7 @@ nav ul li a:hover {
 .btn_cv {
     text-align: center;
     padding: 60px 20px;
-    background: #007BFF;
+    background: #00b809;
     color: white;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -73,7 +73,7 @@ nav ul li a:hover {
     margin-top: 15px;
     padding: 12px 24px;
     background: white;
-    color: #007BFF;
+    color: #00b809;
     font-size: 1.1em;
     text-decoration: none;
     border-radius: 5px;
@@ -82,7 +82,7 @@ nav ul li a:hover {
 }
 
 .btn_cv .btn:hover {
-    background: #0056b3;
+    background: #00b809;
     color: white;
     transform: scale(1.1);
 }
@@ -100,8 +100,8 @@ nav ul li a:hover {
 }
 
 h2 {
-    color: #007BFF;
-    border-bottom: 3px solid #007BFF;
+    color: #00b809;
+    border-bottom: 3px solid #00b809;
     padding-bottom: 5px;
     margin-bottom: 15px;
     font-size: 1.8em;
@@ -121,7 +121,7 @@ ul li {
 }
 
 ul li:hover {
-    color: #007BFF;
+    color: #00b809;
     transform: scale(1.01);
 }
 
@@ -139,14 +139,14 @@ ul li:hover {
 
 /* ----------- Enlaces ----------- */
 a {
-    color: #007BFF;
+    color: #00b809;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 a:hover {
     text-decoration: underline;
-    color: #0056b3;
+    color: #00b809;
 }
 
 /* ----------- Footer ----------- */
